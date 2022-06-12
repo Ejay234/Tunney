@@ -1,5 +1,5 @@
-const clientID = 'c3151b18a685491bb4e8691db3f87582';
-const redirectURI = 'https://codejams.surge.sh/';
+const clientID = '#Create an app to obtain ID';
+const redirectURI = 'http://localhost:3000/';
 let accessToken;
 
 const Spotify = {
